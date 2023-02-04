@@ -48,3 +48,13 @@ Save part:
 Show old part:
 
 ![image](https://user-images.githubusercontent.com/97354112/216792964-1b189348-80ff-4876-91bb-0591443ae6da.png)
+
+
+#Get help 3 times
+
+![image](https://user-images.githubusercontent.com/97354112/216793184-6bcb3e90-971b-48aa-985d-a78e1dcda90c.png)
+
+![image](https://user-images.githubusercontent.com/97354112/216793259-cc498107-c376-4894-998b-b67f83cb919c.png)
+
+![image](https://user-images.githubusercontent.com/97354112/216793271-54abb396-ebe9-4fa1-b640-1cd859625d2d.png)
+
